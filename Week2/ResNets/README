@@ -1,0 +1,4 @@
+2019/06/30
+ResNet50.h5 is too small to be right, must be corrupted. It's too big to be
+downloaded from the browser (HTTP chunk size exceeds the configured limit of 250000000 bytes),
+and this is the file I got by using wget.
